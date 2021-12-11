@@ -1,0 +1,15 @@
+## Interface: 20502
+## Title: |cff1f1f8cNight|r|cfffff0f5Fae|r: |cff7c0e00mainbar|r
+## Notes: NightFae style Actionbars.
+## Author: sohigh
+## Version: 0.1
+
+core.lua
+config.lua
+actionbar\core.lua
+actionbar\expbar.lua
+actionbar\extra.lua
+actionbar\hotkey.lua
+actionbar\style.lua
+actionbar\fader.lua
+actionbar\short.lua
